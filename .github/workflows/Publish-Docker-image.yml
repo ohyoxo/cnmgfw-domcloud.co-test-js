@@ -43,7 +43,7 @@ jobs:
         uses: docker/metadata-action@9ec57ed1fcdbf14dcef7dfbe97b2010124a938b7
         with:
           images: |
-            ohyoxo/node-2go 
+            ohyoxo/rss-test 
             ghcr.io/ohyoxo/nodejs-2go
             #仓库的所有者/仓库名称
             
